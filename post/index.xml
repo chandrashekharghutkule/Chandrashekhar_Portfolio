@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Chandrashekhar</title>
+    <link>https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/</link>
+    <description>Recent content in Projects on Chandrashekhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project-4 Taxi demand prediction</title>
+      <link>https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 12 Jun 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/project-4/</guid>
+      <description>ML Problem Formulation
+Time-series forecasting and Regression
+ To find number of pickups, given location cordinates(latitude and longitude) and time, in the query reigion and surrounding regions.  To solve the above we would be using data collected in Jan - Mar 2015 to predict the pickups in Jan - Mar 2016.
+Performance metrics
+ Mean Absolute percentage error. Mean Squared error.   Pickup Latitude and Pickup Longitude
+ Dropoff Latitude &amp;amp; Dropoff Longitude</description>
+    </item>
+    
+    <item>
+      <title>Project-3 Personalized cancer diagnosis</title>
+      <link>https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 11 May 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/project-3/</guid>
+      <description>Problem statement :
+Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
+Type of Machine Learning Problem
+ There are nine different classes a genetic mutation can be classified into =&amp;gt; Multi class classification problem  Machine Learing Objectives and Constraints
+-Objective: Predict the probability of each data-point belonging to each of the nine classes.
+-Constraints:
+ Interpretability Class probabilities are needed. Penalize the errors in class probabilites =&amp;gt; Metric is Log-loss.</description>
+    </item>
+    
+    <item>
+      <title>Project-2 Stack Overflow: Tag Prediction</title>
+      <link>https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 10 Apr 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/project-2/</guid>
+      <description>Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
+Stack Overflow is something which every programmer use one way or another. Each month, over 50 million developers come to Stack Overflow to learn, share their knowledge, and build their careers. It features questions and answers on a wide range of topics in computer programming.
+The website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg.</description>
+    </item>
+    
+    <item>
+      <title>Project-1 Quora Question Pairs</title>
+      <link>https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 Mar 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://chandrashekharghutkule.github.io/Chandrashekhar_Portfolio/post/project-1/</guid>
+      <description>Business Problem
+1.1 Description
+Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
+Over 100 million people visit Quora every month, so it&amp;rsquo;s no surprise that many people ask similarly worded questions. Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question, and make writers feel they need to answer multiple versions of the same question.</description>
+    </item>
+    
+  </channel>
+</rss>
